@@ -76,7 +76,8 @@
 
 ---
 
-![Иллюстрация к проекту](https://github.com/usolmary/Ai-assistant-for-land-lawyer/blob/main/Screenshot_2.jpg?raw=true)
+![Запись на консультацию](https://github.com/usolmary/Ai-assistant-for-land-lawyer/blob/main/Screenshot_2.jpg?raw=true)
+![Диалог](https://github.com/usolmary/Ai-assistant-for-land-lawyer/blob/main/Screenshot_3.jpg?raw=true)
 
 ---
 
